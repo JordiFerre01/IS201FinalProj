@@ -1,0 +1,20 @@
+.header {
+    top: 5px;
+    right: 5px;
+    height: 30px;
+    position: fixed;
+    background-color: lightcyan;
+    text-align: right;
+    padding-top: 9px;
+    font-size: 20px;
+    font: bold;
+    z-index: 1;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.body {background-color: white;}
+
+.intro {
+    padding-right: 200px;
+
+}
